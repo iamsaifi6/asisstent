@@ -1,0 +1,9 @@
+{
+  "assistant_name": "My Assistant",
+  "confirmation_required": [
+    "lock_pc",
+    "sleep_pc",
+    "restart_pc",
+    "shutdown_pc"
+  ]
+}
